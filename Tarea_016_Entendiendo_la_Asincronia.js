@@ -40,3 +40,6 @@
  */
 
 // Escribe tu código aquí debajo.
+console.log("Inicio del script.");
+setTimeout(() => console.log("¡Tarea asíncrona completada!") , 2000);
+console.log("Fin del script. El programa sigue...");
