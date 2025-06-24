@@ -42,53 +42,53 @@ La estructura y el contenido de este curso se rigen por los siguientes principio
 </details>
 
 <details>
-<summary><b>Módulo 2: El Mundo Asíncrono (Tareas 016-030)</b></summary>
+<summary><b>Módulo 2: El Mundo Asíncrono (Tareas 016-025)</b></summary>
 <ul>
     <li>Tarea 016: Entendiendo la Asincronía con `setTimeout`</li>
     <li>Tarea 017: Creando tu Primera Promesa</li>
     <li>Tarea 018: La Magia de Async/Await</li>
     <li>Tarea 019: Manejo Avanzado de Errores Asíncronos</li>
-    <li>Tarea 020: Ejecutando Promesas en Paralelo con `Promise.all`</li>
+    <li>Tarea 020: Ejecución Paralela de Promesas (`Promise.all`)</li>
     <li>Tarea 021: Compitiendo con Promesas (`Promise.race`)</li>
     <li>Tarea 022: Encadenamiento de Llamadas Asíncronas</li>
-    <li>Tarea 023: Introducción a `fetch` en Node.js</li>
-    <li>Tarea 024: Refactorizando Callbacks a Promesas</li>
-    <li>... y más</li>
+    <li>Tarea 023: Llamadas a APIs con `fetch`</li>
+    <li>Tarea 024: Refactorizando Callbacks a Promesas ("Promisify")</li>
+    <li>Tarea 025: Integración Asíncrona con Métodos de Array</li>
 </ul>
 </details>
 
 <details>
-<summary><b>Módulo 3: Node.js - El Entorno de Ejecución (Tareas 031-050)</b></summary>
+<summary><b>Módulo 3: Node.js - El Entorno de Ejecución (Tareas 026-040)</b></summary>
 <ul>
-    <li>Tarea 031: Sistema de Archivos: Leyendo un archivo con `fs.readFile`</li>
-    <li>Tarea 032: Sistema de Archivos: Escribiendo un archivo con `fs.writeFile`</li>
-    <li>Tarea 033: El Módulo `path` para Rutas de Archivos</li>
-    <li>Tarea 034: Entendiendo Módulos (CommonJS vs ES Modules)</li>
-    <li>Tarea 035: Creando un Servidor HTTP Básico</li>
-    <li>Tarea 036: Manejando Rutas en un Servidor HTTP</li>
-    <li>Tarea 037: Variables de Entorno con `process.env`</li>
-    <li>Tarea 038: Trabajando con Streams</li>
+    <li>Tarea 026: Sistema de Archivos: Leyendo un archivo</li>
+    <li>Tarea 027: Sistema de Archivos: Escribiendo un archivo</li>
+    <li>Tarea 028: El Módulo `path` para Rutas de Archivos</li>
+    <li>Tarea 029: Entendiendo Módulos (CommonJS vs ES Modules)</li>
+    <li>Tarea 030: Creando un Servidor HTTP Básico</li>
+    <li>Tarea 031: Manejando Rutas en un Servidor HTTP</li>
+    <li>Tarea 032: Variables de Entorno con `process.env`</li>
+    <li>Tarea 033: Trabajando con Streams</li>
     <li>... y más</li>
 </ul>
 </details>
 
 <details>
-<summary><b>Módulo 4: Herramientas del Ecosistema (Tareas 051-070)</b></summary>
+<summary><b>Módulo 4: Herramientas del Ecosistema (Tareas 041-060)</b></summary>
 <ul>
-    <li>Tarea 051: Inicializando un Proyecto con NPM (`package.json`)</li>
-    <li>Tarea 052: Instalando y Gestionando Dependencias</li>
-    <li>Tarea 053: Creando Scripts de NPM</li>
-    <li>Tarea 054: Introducción a Express.js</li>
-    <li>Tarea 055: Creando una API REST simple con Express</li>
-    <li>Tarea 056: Introducción al Testing con Jest</li>
-    <li>Tarea 057: Escribiendo tu Primer Test Unitario</li>
-    <li>Tarea 058: Configurando ESLint y Prettier</li>
+    <li>Tarea 041: Inicializando un Proyecto con NPM (`package.json`)</li>
+    <li>Tarea 042: Instalando y Gestionando Dependencias</li>
+    <li>Tarea 043: Creando Scripts de NPM</li>
+    <li>Tarea 044: Introducción a Express.js</li>
+    <li>Tarea 045: Creando una API REST simple con Express</li>
+    <li>Tarea 046: Introducción al Testing con Jest</li>
+    <li>Tarea 047: Escribiendo tu Primer Test Unitario</li>
+    <li>Tarea 048: Configurando ESLint y Prettier</li>
     <li>... y más</li>
 </ul>
 </details>
 
 <details>
-<summary><b>Módulo 5: Proyectos y Conceptos Avanzados (Tareas 071-100)</b></summary>
+<summary><b>Módulo 5: Proyectos y Conceptos Avanzados (Tareas 061-100)</b></summary>
 <ul>
     <li>Proyecto 1: Herramienta de Línea de Comandos (CLI)</li>
     <li>Proyecto 2: API REST con Persistencia en Archivos JSON</li>
